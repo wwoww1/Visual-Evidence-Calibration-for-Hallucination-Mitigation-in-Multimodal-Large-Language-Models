@@ -1,4 +1,4 @@
-# Visual-Evidence-Calibration-for-Hallucination-Mitigation-in-Multimodal-Large-Language-Models
+# VEC-DPO
 
 This repository implements **VEC-DPO**, a visual evidence-calibrated preference optimization framework for mitigating hallucination in multimodal large language models.
 
